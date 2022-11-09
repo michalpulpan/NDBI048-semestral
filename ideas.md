@@ -29,3 +29,14 @@ What parts of the country did change most from to 2011 to 2021?
 Pick up metrics of change (e. g. differences in population, in education, in age). Compute them for regions, counties, by municipality size, the distance from big cities etc.
 ### Model: 
 estimate the change given the region, municipality size etc.
+
+
+# My ideas
+## MY GEODATA 1
+### Example for motivation: 
+Is there a relationship between the level of financial problems in the municipality and demographical features of the municipality?
+### Exploration tips: 
+explore correlation of financial problems and some demographic variable (e. g. rate of people with college education, above 65 years, unemployed etc.)
+### Model: 
+estimate of the level of financial problems when demographical features are given.
+
