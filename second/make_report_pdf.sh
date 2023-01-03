@@ -1,0 +1,1 @@
+jupyter nbconvert  --to pdf --template pj-pdf --no-input second/second_report.ipynb
