@@ -1,0 +1,1 @@
+jupyter nbconvert  --to pdf --template pj-pdf --no-input first/first_report.ipynb
